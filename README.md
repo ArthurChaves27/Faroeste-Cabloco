@@ -9,14 +9,14 @@ cangaceiros que sequestraram sua familía e destruíram sua cidade.
 #Roteiro
 Drama / Faroeste urbano / Tragédia social
 
-#Personagens principais
+# Personagens principais
 João de Santo Cristo — protagonista; jovem pobre, revoltado e sonhador.
 Maria Lúcia — amor de João.
 Pablo — contrabandista peruano que ajuda João.
 Jeremias — traficante rival de João.
 O Boiadeiro — homem que dá a João a chance de ir para Brasília.
 
-#ATO 1 — A infância e a fuga
+# ATO 1 — A infância e a fuga
 Lugar: Fazenda / interior do Nordeste
 Clima
 Pobreza, violência e abandono.
@@ -34,7 +34,7 @@ Soldado
 Professor
 Velhinhas da igreja
 
-#ATO 2 — Salvador: o começo da viagem
+# ATO 2 — Salvador: o começo da viagem
 Lugar: Salvador
 Clima
 
@@ -48,7 +48,7 @@ Personagens da fase
 João
 Boiadeiro
 
-#ATO 3 — Brasília e a vida de trabalhador
+# ATO 3 — Brasília e a vida de trabalhador
 Lugar: Brasília
 Sub-lugares importantes
 Rodoviária do Plano Piloto
@@ -70,7 +70,7 @@ Pablo
 Trabalhadores
 Jovens ricos (“boyzinhos”)
 
-#ATO 4 — O traficante Santo Cristo
+# ATO 4 — O traficante Santo Cristo
 Lugar: Brasília e periferias
 Sub-lugares
 Planaltina
@@ -92,7 +92,7 @@ Pablo
 Policiais
 Traficantes
 
-#ATO 5 — O amor de Maria Lúcia
+# ATO 5 — O amor de Maria Lúcia
 Lugar: Brasília
 Clima
 
@@ -107,7 +107,7 @@ Personagens da fase
 João
 Maria Lúcia
 
-#ATO 6 — A conspiração e o rival
+# ATO 6 — A conspiração e o rival
 Lugar: Brasília / Planaltina
 Clima
 
@@ -125,7 +125,7 @@ Pablo
 Jeremias
 Homem da alta classe
 
-#ATO 7 — A traição
+# ATO 7 — A traição
 Lugar: Casa de João
 Clima
 
@@ -141,7 +141,7 @@ João
 Maria Lúcia
 Jeremias
 
-#ATO 8 — O duelo final
+# ATO 8 — O duelo final
 Lugar: Ceilândia
 Sub-lugar
 Lote 14
@@ -166,7 +166,7 @@ Multidão
 Sorveteiro
 Equipe de televisão
 
-#EPÍLOGO
+# EPÍLOGO
 Lugar: Brasília
 Clima
 
