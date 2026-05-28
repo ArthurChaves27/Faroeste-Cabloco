@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://c1bs0w1cmjljg"]
+
+[ext_resource type="PackedScene" uid="uid://bn61xepowkvpr" path="res://scenes/jâo.tscn" id="1_o5qli"]
+
+[sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_o5qli"]
+
+[node name="Main" type="Node2D" unique_id=156450030]
+
+[node name="CharacterBody2D" parent="." unique_id=961347176 instance=ExtResource("1_o5qli")]
+position = Vector2(-5, -71)
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=904762652]
+position = Vector2(0, -170)
+
+[node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=1816561645]
+position = Vector2(0, 47)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=1504137425]
+shape = SubResource("WorldBoundaryShape2D_o5qli")
